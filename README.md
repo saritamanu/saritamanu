@@ -12,7 +12,7 @@ Hello there 👋
 <img src="https://www.shecodes.io/assets/logos/technologies/css-c4554008372faa24096997403ee46f3347a87b8f1636cfb148109bac867c03bb.png" style="width:30px;height:30px;">
 <img src="https://www.shecodes.io/assets/logos/technologies/javascript-66f17d0db91bf422711333a5899e3ce6e952071c8c7b747021029a41fbf42cd7.png" style="width:28px;height:29px;">
 </div>
-<p>Currently Learning:</p>
+<p>Currently learning:</p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" style="width: 30px; height:30px;">
 <!--
 
