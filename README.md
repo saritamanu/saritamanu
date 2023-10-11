@@ -3,7 +3,7 @@ Hello there 👋
 <h3>I am Sara and I'm a frontend developer in development 😄</h3>
 <br />
 <p>At the moment I'm learning React ⚛️ in this platform called SheCodes 👩🏼‍💻</p>
-<a href= "https://quizzical-bardeen-227cee.netlify.app/">Portfolio right here!</a>
+<a href= "https://saradias.netlify.app">Portfolio right here!</a>
 <br />
 
 <p>Learned and still learning everyday:</p>
