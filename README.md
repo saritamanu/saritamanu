@@ -5,7 +5,7 @@ Hello there 👋
 <p>At the moment I'm learning React ⚛️ at this platform called SheCodes 👩🏼‍💻</p>
 <a href= "https://saradias.netlify.app">Portfolio right here!</a>
 <br />
-
+<br />
 <p>Skills:</p>
 <div>
 <img src="https://www.shecodes.io/assets/logos/technologies/html-0604a6b4c136a971d7ea5d7f5941216ae895093c636027fc3ac53297fea9a502.png" style="width:30px;height:30px;">
