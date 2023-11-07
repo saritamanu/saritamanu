@@ -6,7 +6,7 @@ Hello there 👋
 <a href= "https://saradias.netlify.app">Portfolio right here!</a>
 <br />
 
-<p>Learned and still learning everyday:</p>
+<p>Skills:</p>
 <div>
 <img src="https://www.shecodes.io/assets/logos/technologies/html-0604a6b4c136a971d7ea5d7f5941216ae895093c636027fc3ac53297fea9a502.png" style="width:30px;height:30px;">
 <img src="https://www.shecodes.io/assets/logos/technologies/css-c4554008372faa24096997403ee46f3347a87b8f1636cfb148109bac867c03bb.png" style="width:30px;height:30px;">
