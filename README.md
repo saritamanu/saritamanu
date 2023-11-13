@@ -1,7 +1,7 @@
 Hello there 👋
 
 <h3>I am Sara and I'm a frontend developer under development 😄</h3>
-<p>Learning React ⚛️</p>
+<p>Focusing on React ⚛️</p>
 <a href= "https://saradias.netlify.app">Portfolio right here!</a>
 <br />
 <br />
