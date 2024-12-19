@@ -1,7 +1,10 @@
 Hello there 👋
 
-<h3>I am Sara and I'm a frontend developer under development 😄</h3>
-<p>Focusing on React ⚛️</p>
+<h3>I am Sara and I'm a Software Developer 😄</h3>
+<p>Focusing on:  </p>
+<p>Python <img src = 'https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png' style="width:28px;height:29px;> </p>
+<br/>
+<p>MySQL <img src = 'https://www.svgrepo.com/show/303251/mysql-logo.svg' style="width:28px;height:29px;>  </p>
 <br />
 <br />
 <p>Skills:</p>
