@@ -1,16 +1,25 @@
 Hello there 👋
-
-<h3>I am Sara and I'm a Software Developer 😄</h3>
-<p>Focusing on:  </p>
-<p>Python <img src = 'https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png' style="width:28px;height:29px;> </p>
+I am Sara
 <br/>
-<p>MySQL <img src = 'https://www.svgrepo.com/show/303251/mysql-logo.svg' style="width:28px;height:29px;>  </p>
-<br />
-<br />
-<p>Skills:</p>
-<div>
-<img src="https://www.shecodes.io/assets/logos/technologies/javascript-66f17d0db91bf422711333a5899e3ce6e952071c8c7b747021029a41fbf42cd7.png" style="width:28px;height:29px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" style="width: 30px; height:30px;">
-</div>
-<!--
+<br/>
+<b>### Software developer | Full-Stack Enthusiast ### </b>
+<br/>
+<ul>
+<li><b>Frontend Development:</b> HTML, CSS, JS</li>
+<li><b>Backend Development:</b> Python</li>
+<li><b>Frameworks:</b> React, Flask</li>
+<li><b>Databases:</b> SQL Server, MySQL, SQLite</li>
+</ul>
 
+<h2>Projects</h2>
+<ul>
+  <li> 📖 Dictionary App - made with React: <a href='https://github.com/saritamanu/dictionary_project1'>Any word bothering you? 🤔 Click here! </a></li>
+  <li> ⛅ Weather App - made with React: <a href='https://github.com/saritamanu/weather-react'>Check if you need sunglasses today! 😎 </a></li>
+</ul>
+
+<h2>Contact</h2>
+<ul>
+  <li><a href='https://www.linkedin.com/in/sara-m-dias/'>Let's connect!</a></li>
+</ul>
+<br/>
+<footer>Coding with ❤️</footer>
