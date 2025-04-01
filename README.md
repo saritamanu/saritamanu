@@ -11,6 +11,7 @@ I am Sara
 <li><b>Databases:</b> SQL Server, MySQL, SQLite</li>
 </ul>
 
+<h2>Check what languages I've been using in the last 7 days:</h2>
  <!--START_SECTION:waka-->
 
 ```txt
