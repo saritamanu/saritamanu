@@ -12,6 +12,15 @@ I am Sara
 </ul>
 
  <!--START_SECTION:waka-->
+
+```txt
+Other        23 hrs          ██████████████████▓░░░░░░   75.16 %
+Python       7 hrs 2 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.98 %
+JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+YAML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+```
+
 <!--END_SECTION:waka-->
 
 <h2>Projects</h2>
