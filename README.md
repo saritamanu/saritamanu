@@ -10,7 +10,6 @@ I am Sara
 <li><b>Frameworks:</b> React, Flask</li>
 <li><b>Databases:</b> SQL Server, MySQL, SQLite</li>
 </ul>
-<hr>
 <b>In the last 7 days I've been using:</b>
 <br/>
 <br/>
