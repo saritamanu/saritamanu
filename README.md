@@ -10,8 +10,10 @@ I am Sara
 <li><b>Frameworks:</b> React, Flask</li>
 <li><b>Databases:</b> SQL Server, MySQL, SQLite</li>
 </ul>
-
+<hr>
 <b>In the last 7 days I've been using:</b>
+<br/>
+<br/>
  <!--START_SECTION:waka-->
 
 ```txt
@@ -22,7 +24,7 @@ YAML         4 mins          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+<hr>
 <h2>Projects</h2>
 <ul>
   <li> 📖 Dictionary App - made with React: <a href='https://github.com/saritamanu/dictionary_project1'>Any word bothering you? 🤔 Click here! </a></li>
