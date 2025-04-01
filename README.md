@@ -11,6 +11,9 @@ I am Sara
 <li><b>Databases:</b> SQL Server, MySQL, SQLite</li>
 </ul>
 
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h2>Projects</h2>
 <ul>
   <li> 📖 Dictionary App - made with React: <a href='https://github.com/saritamanu/dictionary_project1'>Any word bothering you? 🤔 Click here! </a></li>
