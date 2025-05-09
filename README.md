@@ -16,6 +16,7 @@ I am Sara
  <!--START_SECTION:waka-->
 
 ```txt
+Other        12 hrs 21 mins  ██████████▒░░░░░░░░░░░░░░   40.99 %
 Python       12 hrs 3 mins   ██████████░░░░░░░░░░░░░░░   40.02 %
 JSON         5 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
 JavaScript   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
