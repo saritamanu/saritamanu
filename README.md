@@ -16,9 +16,10 @@ I am Sara
  <!--START_SECTION:waka-->
 
 ```txt
-Python       11 hrs 53 mins  ██████████████░░░░░░░░░░░   55.93 %
-TypeScript   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Python       11 hrs 14 mins  ██████████████▒░░░░░░░░░░   56.74 %
+Other        8 hrs 10 mins   ██████████▒░░░░░░░░░░░░░░   41.30 %
+TypeScript   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
